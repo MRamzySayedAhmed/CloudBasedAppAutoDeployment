@@ -2,7 +2,7 @@
 It’s a Full Exercise on Utilizing CI/CD Pipelines, Configuration Management & Monitoring Concepts for Deploying a Highly Available Web App in an Automated Way.
 
 # The Used Technologies
-* CircleCI
 * Ansible
-* Prometheus
+* CircleCI
 * AWS Services (CloudFormation)
+* Prometheus & Grafana
